@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "asynccanvas",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adurymanov/AsyncCanvas",
+      "state" : {
+        "revision" : "be4d5858b1e7f7be2e6c42f526b8fe6a85c531f4",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
